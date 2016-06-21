@@ -1,0 +1,248 @@
+
+
+// Posts document.. copy from the below line inclucing the square brackets 
+ [
+    {
+      "_id": "1",
+      "image_link": "https://valoso.com/blog/wp-content/uploads/2016/02/virtual-reality.jpg",
+      "likes": 5915,
+      "link_title": "VR Gaming is so Immersive You'll Want to Stick Your Head Through the Floor",
+      "main_link": "https://gfycat.com/ParallelLinearBlackfly",
+      "post": "submitted",
+      "post_time": "Fri Jan 01 2016 18:36:45 GMT-0700 (Pacific Daylight Time)",
+      "username": "dean",
+      "image": 1,
+      "video": 0
+    },
+    {
+      "_id": "2",
+      "image_link": "http://media4.s-nbcnews.com/j/newscms/2016_11/1456786/160314-gupta-0812_cc9d7efb4ab32483d62a8b53e5b33351.nbcnews-ux-320-320.jpg",
+      "likes": 6816,
+      "link_title": "Justice Department: States Should Not Jail Poor People Over Fine Nonpayment",
+      "main_link": "http://www.nbcnews.com/news/us-news/department-justice-states-should-not-jailed-over-fine-nonpayment-n537796",
+      "post": "submitted",
+      "post_time": "Wed Jan 06 2016 10:50:12 GMT-0700 (Pacific Daylight Time)",
+      "username": "dexter",
+      "image": 1,
+      "video": 0
+    },
+    {
+      "_id": "3",
+      "image_link": "https://b.thumbs.redditmedia.com/tbAxSRjyIChR7r5Z7k2dBQfLqNug5gxnAjnXcp8An-I.jpg",
+      "likes": 4827,
+      "link_title": "Danny DeVito shortly before introducing Bernie as Obi-Wan yesterday.",
+      "main_link": "http://i.imgur.com/00U2Jzb.gifv",
+      "post": "submitted",
+      "post_time": "Thu Jan 14 2016 05:15:09 GMT-0700 (Pacific Daylight Time)",
+      "username": "karthik",
+      "image": 1,
+      "video": 0
+    },
+    {
+      "_id": "4",
+      "image_link": "image/noimage.jpg",
+      "image": 0,
+      "video": 1,
+      "likes": 6217,
+      "link_title": "Anime VS Reality",
+      "main_link": "http://imgur.com/gallery/VoxHX",
+      "post": "submitted",
+      "post_time": "Wed Jan 27 2016 19:10:23 GMT-0700 (Pacific Daylight Time)",
+      "username": "karthik"
+    },
+    {
+      "_id": "5",
+      "image_link": "https://b.thumbs.redditmedia.com/nRYIE-E4zvxfCopZBRQ4jZaDw65YVsEvAo4HKL-i29I.jpg",
+      "likes": 3449,
+      "link_title": "She begged and pleaded, but in the end. she had to take a Bath.",
+      "main_link": "http://i.imgur.com/E8U9xS2.jpg",
+      "post": "submitted",
+      "image": 1,
+      "video": 0,
+      "post_time": "Fri Feb 05 2016 19:28:54 GMT-0700 (Pacific Daylight Time)",
+      "username": "swapnil"
+    },
+    {
+      "_id": "6",
+      "image_link": "https://b.thumbs.redditmedia.com/wsW-a4lgCN0YR3ExynKfwNc6GMxQP4HuLXWeC8A-UJE.jpg",
+      "likes": 4905,
+      "image": 1,
+      "video": 0,
+      "link_title": "I had the luck to spend the last weekend in this landscape",
+      "post_time": "Mon Feb 08 2016 23:16:44 GMT-0700 (Pacific Daylight Time)",
+      "main_link": "http://i.imgur.com/S7Q98vk.jpg",
+      "username": "dexter"
+    },
+    {
+      "_id": "7",
+      "image_link": "https://a.thumbs.redditmedia.com/yOiJZLr-DUxxE2QQPG75mJIFCBCO87TQsZ0dajU0cg8.jpg",
+      "likes": 2795,
+      "image": 0,
+      "video": 1,
+      "link_title": "Mr. Burns is a good motivator.",
+      "main_link": "http://i.imgur.com/dYgkLlt.jpg",
+      "post": "submitted",
+      "post_time": "Fri Feb 12 2016 09:19:56 GMT-0700 (Pacific Daylight Time)",
+      "username": "swapnil"
+    },
+    {
+      "_id": "8",
+      "image_link": "http://davidkonig.com/wp-content/uploads/2016/03/pie-600x600.png",
+      "likes": 3553,
+      "image": 0,
+      "video": 1,
+      "link_title": "Happy Pi Day everyone!",
+      "post_time": "Mon Feb 15 2016 10:09:04 GMT-0700 (Pacific Daylight Time)",
+      "main_link": "https://www.reddit.com/r/askscience/comments/4aczay/happy_pi_day_everyone/",
+      "username": "karthik"
+    },
+    {
+      "_id": "9",
+      "likes": 5336,
+      "image": 0,
+      "video": 0,
+      "image_link": "image/noimage.jpg",
+      "link_title": "Wealth of super rich soars as the worst-off lose out, report says | UK",
+      "post_time": "Sat Feb 20 2016 20:20:20 GMT-0700 (Pacific Daylight Time)",
+      "main_link": "http://www.independent.co.uk/news/uk/politics/budget-2016-wealth-of-super-rich-soars-as-the-worst-off-lose-out-report-says-a6929341.html",
+      "username": "karthik"
+    },
+    {
+      "_id": "10",
+      "likes": 2139,
+      "image_link": "image/noimage.jpg",
+      "image": 0,
+      "video": 0,
+      "link_title": "PSA: Don't forget to cancel those Tidal trial memberships you signed up for to listen to Kanye's Life of Pablo album.",
+      "post_time": "Thu Feb 25 2016 16:46:51 GMT-0700 (Pacific Daylight Time)",
+      "main_link": "https://www.reddit.com/r/Music/comments/4adhlv/psa_dont_forget_to_cancel_those_tidal_trial/",
+      "username": "swapnil"
+    },
+    {
+      "_id": "11",
+      "image_link": "https://b.thumbs.redditmedia.com/qFF3nmzga9Tn047qSnZt4VOQwSR3w3a1n87S-mNNngw.jpg",
+      "likes": 3663,
+      "image": 1,
+      "video": 0,
+      "link_title": "1961 Marilyn Monroe with a paddleball",
+      "post_time": "Mon Feb 29 2016 09:29:29 GMT-0700 (Pacific Daylight Time)",
+      "main_link": "http://imgur.com/iC1cQhX.gifv",
+      "username": "dexter"
+    },
+    {
+      "_id": "12",
+      "likes": 3636,
+      "image_link": "https://cdn-webimages.wimages.net/05181c8a0335ec170412d55f89bb95e67dd15b-wm.jpg",
+      "image": 0,
+      "video": 1,
+      "link_title": "A man who'd just died is delivered to a local mortuary",
+      "post_time": "Fri Mar 04 2016 21:35:34 GMT-0700 (Pacific Daylight Time)",
+      "main_link": "https://www.reddit.com/r/Jokes/comments/4acr33/a_man_whod_just_died_is_delivered_to_a_local/",
+      "username": "dexter"
+    },
+    {
+      "likes": "2331",
+      "link_title": "Paramount gets serious about challenging Star Trek fan film Axanar; provides 28 pages of specific copyright-infringing elements.",
+      "main_link": "http://www.avclub.com/article/paramount-lawyers-call-star-trek-fan-films-bluff-n-233718",
+      "_id": 13,
+      "image": 1,
+      "video": 0,
+      "image_link": "https://b.thumbs.redditmedia.com/Zf-OqLz7VEo1a7q5GefzYG7oNtC1nQFkt0WcU-TnpqU.jpg",
+      "post_time": "Mon Mar 07 2016 15:16:17 GMT-0700 (Pacific Daylight Time)",
+      "username": "dexter"
+    },
+    {
+      "_id": "14",
+      "image_link": "https://b.thumbs.redditmedia.com/Zf-OqLz7VEo1a7q5GefzYG7oNtC1nQFkt0WcU-TnpqU.jpg",
+      "likes": 1493,
+      "image": 1,
+      "video": 0,
+      "link_title": "For daylight savings, we should move the clocks forward an hour on Monday at 9 AM so that we lose an hour of work instead of sleep.",
+      "main_link": "https://www.reddit.com/r/Showerthoughts/comments/4adkrv/for_daylight_savings_we_should_move_the_clocks/",
+      "post": "submitted",
+      "post_time": "Tue Mar 15 2016 19:50:23 GMT-0700 (Pacific Daylight Time)",
+      "username": "dean"
+    },
+    {
+      "likes": 2401,
+      "link_title": "An Israeli company creates new high-tech glasses lens called \"omnifocals,\" which have the ability to change their optical power in real time, allowing the wearer to look wherever he or she wants without limiting the field of view or compromising clarity.",
+      "main_link": "http://www.popularmechanics.com/technology/a19885/smart-glasses-focus-any-distance/",
+      "_id": "15",
+      "image": 1,
+      "video": 0,
+      "image_link": "https://a.thumbs.redditmedia.com/VE4_aDt2qfkC9JfvUuEleSagX6ZkuZfDPVpO_FkjQZ4.jpg",
+      "post_time": "Sun Mar 20 2016 05:34:24 GMT-0700 (Pacific Daylight Time)",
+      "username": "dexter"
+    },
+    {
+      "_id": "16",
+      "image_link": "image/noimage.jpg",
+      "likes": 4860,
+      "image": 0,
+      "video": 0,
+      "link_title": "What's something you're pretty sure has only happened to you?",
+      "main_link": "https://www.reddit.com/r/AskReddit/comments/4acch3/whats_something_youre_pretty_sure_has_only/",
+      "post": "submitted",
+      "post_time": "Fri Mar 25 2016 23:02:44 GMT-0700 (Pacific Daylight Time)",
+      "username": "dean"
+    },
+    {
+      "_id": "17",
+      "image_link": "image/noimage.jpg",
+      "likes": 5261,
+      "link_title": "TIL over 60 percent of Chinese consumers also say that they are willing to pay more for products labeled 'Made in USA' than for those labeled 'Made in China'.",
+      "main_link": "http://www.forbes.com/sites/tjmccue/2012/11/19/made-in-america-has-a-new-ring/#5c933ba71b85",
+      "post": "submitted",
+      "post_time": "Sun Mar 27 2016 03:29:14 GMT-0700 (Pacific Daylight Time)",
+      "username": "dean",
+      "image": 1,
+      "video": 0
+    },
+    {
+      "_id": "18",
+      "image_link": "image/noimage.jpg",
+      "likes": 3934,
+      "image": 0,
+      "video": 1,
+      "link_title": "Dog responds to code word",
+      "main_link": "https://www.youtube.com/watch?v=-9JcOZlMlLY",
+      "post": "submitted",
+      "post_time": "Fri Apr 01 2016 14:09:04 GMT-0700 (Pacific Daylight Time)",
+      "username": "karthik"
+    },
+    {
+      "link_title": "darn ",
+      "main_link": "http://www.nbcnews.com/news/us-news/department-justice-states-should-not-jailed-over-fine-nonpayment-n537796",
+      "image_link": "image/noimage.jpg",
+      "likes": 0,
+      "post_time": "Tue Apr 05 2016 05:33:27 GMT-0700 (Pacific Daylight Time)",
+      "image": 0,
+      "video": 0,
+      "username": "geet",
+      "_id": "19"
+    },
+    {
+      "_id": "20",
+      "image_link": "https://www.youtube.com/watch?v=RBumgq5yVrA",
+      "likes": 2,
+      "link_title": "here my first video",
+      "main_link": "http://www.nbcnews.com/news/us-news/department-justice-states-should-not-jailed-over-fine-nonpayment-n537796",
+      "post": "submitted",
+      "post_time": "Tue Apr 05 2016 05:34:05 GMT-0700 (Pacific Daylight Time)",
+      "username": "geet",
+      "image": 0,
+      "video": 1
+    },
+    {
+      "_id": "21",
+      "image_link": "image/noimage.jpg",
+      "likes": 1,
+      "link_title": "json",
+      "main_link": "https://github.com/typicode/json-server",
+      "post": "submitted",
+      "post_time": "Mon Apr 18 2016 17:10:45 GMT-0700 (Pacific Daylight Time)",
+      "username": "tedcruz",
+      "image": 0,
+      "video": 0
+    }
+  ]

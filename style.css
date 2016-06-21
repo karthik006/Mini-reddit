@@ -1,0 +1,305 @@
+* {
+    margin: 0;
+    padding:0;
+}
+.lean-overlay{
+	opacity:0;
+	}
+.facebook_Button{
+	    cursor: pointer;
+        padding-bottom: 5%;
+	    float: right;
+	
+}	
+	
+	
+html, body {
+    height: 100%;
+}
+
+.pagelayout{
+    margin:auto;
+    position: relative;
+    width:100%;
+}
+
+.row:after {
+	
+	display:none;
+	
+}
+
+body {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+ }
+
+header{
+    height: 4em;
+    background: linear-gradient(#56bae8,#c1dae6);
+}
+
+.wrapper{
+    overflow: hidden;
+    min-height: 1%;
+}
+.login-area{
+width: 300px;
+float :right;
+}
+
+#rightSideContainer{
+  width:37%;
+}
+.search{
+  padding-left: 15px;
+}
+.tabs {
+	overflow-x: hidden;
+	
+}
+#search{
+   
+    color: white;
+    font-color:black;
+}
+.search-wrapper{
+    display: inline;
+}
+.header-container{
+height: 4em;
+}
+.username{
+    color: chocolate;
+    font-size:12px;
+    min-width: 7em;
+}
+.time{
+    color: chocolate;
+    font-size:12px;
+    min-width: 7em;
+}
+
+.pages{
+
+    background: chocolate;
+
+}
+.pagetitle{
+    display: inline;
+        padding: 3em;
+}
+.pagetitle img{
+        border-radius: 41px;
+    width: 60px;
+    margin: 10px;
+}
+.title{
+    height:58px;
+    margin:0em;
+    width:7em;
+    margin-left:4em
+}
+.subtitles{
+    display:inline-flex;
+	padding: 3%;
+}
+ul.menu{
+    list-style-type: none;
+    margin-top: -29px;
+    margin-right: 12em;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    float:right;
+    width:16em;
+}
+
+
+.contentDivImg{
+    display: none;
+}
+
+ul.menu li{
+    margin-left: 1em;
+}
+
+main{
+    height:80%;
+    flex: 1 0 auto;
+
+}
+.pagination li {
+    display: inline-block;
+    font-size: 1.2rem;
+    padding: 0 10px;
+    line-height: 30px;
+    border-radius: 196px;
+    text-align: center;
+    font-size: large;
+    margin: 1.5%;
+    margin-left: 2%
+}
+div.tabs{
+    position: absolute;
+    margin-top: 2em;
+    width:45em;
+    margin-left: 1em
+}
+div.tabs a{
+    padding: 1em;
+    color:#d1cea9;
+}
+
+.line{
+width:44em;
+margin:3em -16em;
+
+}
+.main-container{
+    margin: 24px;
+}
+.postsContainer{
+    margin: auto;
+    height:50em;
+    width:51em;
+    padding-top:6em;
+}
+.postname{
+    font-size: 17px;
+    color:midnightblue;
+    margin:1em 0em 0em 0em;
+    font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+}
+.posting-area{
+    width: auto;
+    height:auto;
+}
+legend{
+    font-family: -webkit-pictograph;
+    color: firebrick;
+}
+.modal{
+    position: fixed;
+    left: 40%;
+    right:50%;
+    background-color: #fafafa;
+    padding: 0;
+    max-height: 100%;
+    width: 25%;
+    overflow-y: auto;
+    border-radius: 9px;
+    will-change: top, opacity;
+}
+.btn, .btn-large {
+	background-color: #26A6E1;
+	
+}
+div#modal1.modal{
+    min-height: 79%;
+    width: 34%;
+}
+.rank{
+    width: 5px;
+    float: left;
+}
+#checkbox{
+    position:static;
+    visibility: visible;
+}
+.votes{
+    float: left;
+    margin-right: 1em;
+    margin-left: 0em;
+    overflow: hidden;
+    border-radius:4px;
+    margin-top: 1%;
+    }
+    .votesNum{
+        color: chocolate;
+        font-size: 15px;
+    }
+    .image{
+        width:200px;
+		padding-top: 15px;
+ }
+ i{
+    cursor:pointer ;
+ }
+ .play{
+    font-size:15px;
+    color:lightgrey;
+ }
+ nav{
+	 background: linear-gradient(#56bae8,#c1dae6);
+ }
+ 
+ .pause{
+  font-size:15px;
+    color:lightgrey;
+ }
+    .postimage{
+    display: table-cell;
+    text-align:left;
+    vertical-align: top;
+    border-radius: 1em;
+    margin-top: 6px;
+     width:70px;
+     height:60px;
+    }
+    .Content-List {
+    overflow: hidden;
+    margin-left: 9em;
+    margin-top: -5em;
+    opacity: 1;
+    padding: 0em 1em;
+}
+#numbering{
+    margin-top: 27px;
+}
+.postContent
+{
+    margin: 1em -5em 0em;
+    padding: 0em 1em;
+    float: left;
+    width: 57em;
+    min-height: 5em;
+    overflow: hidden;
+
+}
+
+#fb_login{
+    float: left;
+    padding-top: 10px;
+}
+
+.voteUpButton{
+  cursor: pointer;
+}
+
+.voteDownButton{
+  cursor: pointer;
+}
+
+.post-meta-icon{
+        text-transform: uppercase;
+    letter-spacing: 0.02em;
+    color:lightgrey;
+}
+.pagination{
+    width: 40em;
+    margin-right: 2%;
+    padding-left: 54px;
+}
+
+footer.page-footer{
+   
+   background-color:lightblue;
+}
+
+footer {
+ position:relative;
+ bottom:0;
+ background-color:rgba(17, 18, 23, 0.68);
+}
